@@ -1,15 +1,22 @@
-# 💫 About Me:
-im currently working with Java development, Data Structures & Algorithms, and building practical software projects <br>and Looking to collaborate on:<br>Java projects, beginner-friendly open-source projects, and web/software development projects
+# Hi, I'm Lakshya Sahu 👋
 
+B.Tech Computer Science student (2023–2027) at Lakshmi Narain College of Technology, Bhopal.
+I work with **Java**, **Data Structures & Algorithms** and **Networking**, and I'm looking for an entry-level Software Developer role.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rry.lakshya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ lakshya-sahu-924756330) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshyasahu825@gmail.com) 
+## 🔭 What I'm working on
+- Solving DSA problems in Java (350+ solved on LeetCode)
+- Building Java projects, starting with a Railway Ticket Reservation System
+- Learning SQL, MySQL, JDBC and Git
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lakshyasahu-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lakshyasahu-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lakshyasahu-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 Connect with me
+- LinkedIn: [linkedin.com/in/lakshya-825-sahu](https://www.linkedin.com/in/lakshya-825-sahu)
+- LeetCode: [leetcode.com/u/Lakshya62](https://leetcode.com/u/Lakshya62/)
+- Email: lakshyasahu825@gmail.com
