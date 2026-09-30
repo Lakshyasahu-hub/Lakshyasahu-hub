@@ -17,6 +17,6 @@ I work with **Java**, **Data Structures & Algorithms** and **Networking**, and I
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Connect with me
-- LinkedIn: [linkedin.com/in/lakshya-825-sahu](https://www.linkedin.com/in/lakshya-825-sahu)
+- LinkedIn: [linkedin.com/in/lakshya-825-sahu](http://www.linkedin.com/in/lakshya-825-sahu)
 - LeetCode: [leetcode.com/u/Lakshya62](https://leetcode.com/u/Lakshya62/)
 - Email: lakshyasahu825@gmail.com
